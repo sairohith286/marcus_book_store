@@ -1,0 +1,8 @@
+{
+  "name": "Marcus Book Store",
+  "description": "A curated minimalist bookstore powered by the MERN stack with Express, MongoDB, secure auth, and Cash on Delivery checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
