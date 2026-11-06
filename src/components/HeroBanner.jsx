@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowRight, Banknote, Sparkles, BookOpen } from 'lucide-react';
 
 export default function HeroBanner({ onExploreCategory }) {
-  const heroImage = '/src/assets/images/hero_minimal_bookstore_1793943546877.jpg';
+  const heroImage = '/images/hero_minimal_bookstore_1793943546877.jpg';
 
   return (
     <section className="relative overflow-hidden border-b border-stone-200 bg-[#F5F4F0]">
